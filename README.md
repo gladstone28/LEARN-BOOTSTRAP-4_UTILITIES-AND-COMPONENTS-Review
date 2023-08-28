@@ -1,6 +1,4 @@
-
 [This is the link to the lesson](https://www.codecademy.com/courses/learn-bootstrap/lessons/learn-bootstrap-utilities-components/exercises/review)
-
 
 # LEARN BOOTSTRAP 4: UTILITIES AND COMPONENTS
 
@@ -20,6 +18,7 @@
 - the card component that acts as a stylized content container.
 - collapse to toggle component visibility.
 - the carousel component to create a slideshow which displays images or text.
-> Now, go forth and see what else you can bootstrap to your site!
+  > Now, go forth and see what else you can bootstrap to your site!
 
-
+memory jog
+/c/Users/glads/Documents/PROJECTS_AT_CODECADEMY/LEARN-BOOTSTRAP-4_UTILITIES-AND-COMPONENTS-Review
