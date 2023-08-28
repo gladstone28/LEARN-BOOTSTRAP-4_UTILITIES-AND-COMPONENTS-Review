@@ -18,7 +18,18 @@
 - the card component that acts as a stylized content container.
 - collapse to toggle component visibility.
 - the carousel component to create a slideshow which displays images or text.
-  > Now, go forth and see what else you can bootstrap to your site!
+
+> Now, go forth and see what else you can bootstrap to your site!
+
+### Instructions
+
+> If you want to challenge yourself:
+
+- Add different Bootstrap components not covered in this lesson.
+- Explore Bootstrap utility classes not covered in this lesson.
+- Make the webpage mobile friendly.
+- Create the other pages needed for Gloria’s Gardening.
+- Link to the appropriate pages.
 
 memory jog
 /c/Users/glads/Documents/PROJECTS_AT_CODECADEMY/LEARN-BOOTSTRAP-4_UTILITIES-AND-COMPONENTS-Review
